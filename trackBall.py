@@ -1,5 +1,4 @@
-#Vir Goyal, ENGR 1050, SPring 2023, HW 10
-#Collaborators : None
+
 #OpenCV tracking ball
 import cv2 as cv
 import numpy as np
